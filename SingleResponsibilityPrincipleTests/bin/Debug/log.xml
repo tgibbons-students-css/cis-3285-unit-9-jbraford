@@ -1,0 +1,4 @@
+<log><type></type><message>Trade not a valid integer: '999'</message></log> 
+<log><type></type><message>Trade not a valid integer: '-10000'</message></log> 
+<log><type></type><message>Trade not a valid integer: '1000000'</message></log> 
+<log><type></type><message>Trade not a valid integer: '1000001'</message></log> 
